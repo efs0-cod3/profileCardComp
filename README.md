@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/profile-card-compmobile-first-RT2kGGEKU)
 - Live Site URL: [github](https://efs0-cod3.github.io/profileCardComp/)
 
 ## My process
